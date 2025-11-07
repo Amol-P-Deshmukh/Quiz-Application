@@ -108,7 +108,7 @@ QUESTION-SERVICE
 
 ## Project Structure
 ```
-quiz-app-microservices/
+Quiz-Application/
 ├── api-gateway/
 │   └── pom.xml
 ├── quiz-service/
