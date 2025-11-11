@@ -117,6 +117,7 @@ Quiz-Application/
 │   └── pom.xml
 ├── service-registry/
 │   └── pom.xml
+├── queries.sql
 └── README.md
 ```
 
